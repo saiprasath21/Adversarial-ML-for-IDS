@@ -1,0 +1,27 @@
+yestime---yesaddress---binary---direct
+ 
+Accuray training data = 0.9998907611218832
+Accuray testing data = 0.8154790081200161
+ 
+[[36838  6079]
+ [ 4056  7953]]
+ 
+              precision    recall  f1-score   support
+
+         0.0    0.90082   0.85835   0.87907     42917
+         1.0    0.56678   0.66225   0.61081     12009
+
+    accuracy                        0.81548     54926
+   macro avg    0.73380   0.76030   0.74494     54926
+weighted avg    0.82778   0.81548   0.82042     54926
+
+Pump 3.04
+Rate 3.81
+Deadband 7.32
+Length 7.83
+Gain 8.18
+Cycle time 9.55
+Setpoint 9.76
+Reset 10.15
+CRC Rate 10.87
+Time 14.77

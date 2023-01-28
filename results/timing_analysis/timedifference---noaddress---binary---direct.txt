@@ -1,0 +1,27 @@
+timedifference---noaddress---binary---direct
+ 
+Accuray training data = 0.9943059234781659
+Accuray testing data = 0.8625059170520336
+ 
+[[40808  2109]
+ [ 5443  6566]]
+ 
+              precision    recall  f1-score   support
+
+         0.0    0.88232   0.95086   0.91531     42917
+         1.0    0.75689   0.54676   0.63489     12009
+
+    accuracy                        0.86251     54926
+   macro avg    0.81960   0.74881   0.77510     54926
+weighted avg    0.85489   0.86251   0.85400     54926
+
+Function_3.0 4.06
+Rate 4.54
+Time 6.17
+Length 6.64
+Deadband 8.21
+Gain 8.61
+Cycle time 10.41
+Setpoint 10.76
+Reset 11.2
+CRC Rate 11.99

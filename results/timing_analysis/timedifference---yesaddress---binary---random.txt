@@ -1,0 +1,27 @@
+timedifference---yesaddress---binary---random
+ 
+Accuray training data = 0.9980291485739775
+Accuray testing data = 0.9598732840549102
+ 
+[[42381   641]
+ [ 1563 10341]]
+ 
+              precision    recall  f1-score   support
+
+         0.0    0.96443   0.98510   0.97466     43022
+         1.0    0.94163   0.86870   0.90370     11904
+
+    accuracy                        0.95987     54926
+   macro avg    0.95303   0.92690   0.93918     54926
+weighted avg    0.95949   0.95987   0.95928     54926
+
+Function_16.0 2.98
+Rate 4.3
+Length 5.65
+Gain 8.5
+Deadband 8.69
+Cycle time 9.67
+Setpoint 11.07
+Reset 11.48
+Time 11.63
+CRC Rate 12.53
